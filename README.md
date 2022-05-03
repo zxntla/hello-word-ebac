@@ -11,4 +11,5 @@
   <hr>
   <h1> Resultado:</h1>
   
-![hello-word](https://user-images.githubusercontent.com/102313527/166480454-7248fc0a-e00f-4bb4-9ee0-1cbcf639b77f.PNG)
+
+![Capturar](https://user-images.githubusercontent.com/102313527/166482736-8038aebe-e539-4783-befd-5c2e6c0cc7b8.PNG)
